@@ -1,10 +1,8 @@
-# [Final Frontier](https://final-frontier.tanagra.enterprises)
+# [ChatBotler.ai](https://www.chatbotler.ai)
 
 ## Description
 
-This is a public static html website template and GitHub profile intended for use within [Tanagra Enterprises](https://www.tanagra.enterprises) Organizations.
-
-This template should be forked as `.github` and customized by the forking Org.
+This is a public static html website and GitHub profile for the [ChatBotler.ai](https://www.chatbotler.ai) GitHub Organization.
 
 ## Profile
 
@@ -16,7 +14,7 @@ The `./docs` directory is meant to be served by GitHub Pages.
 
 Configure GitHub Pages via the GitHub Repo setttings and edit the `CNAME` file to point to the desired domain.
 
-The `CNAME` DNS records will also need to be set on your DNS Provider and the root domain will need be owned by Tanagra Enterprises and verified through GitHub.
+The `CNAME` DNS records will also need to be set on your DNS Provider and the root domain will need be owned by ChatBotler.ai and verified through GitHub.
 
 ## Run Locally
 
