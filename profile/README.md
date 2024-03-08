@@ -1,8 +1,8 @@
-# [Final Frontier](https://final-frontier.tanagra.enterprises)
+# [ChatBotler.ai](https://www.chatbotler.ai)
 
-- [Homepage](https://final-frontier.tanagra.enterprises)
+- [Homepage](https://www.chatbotler.ai)
 - [Docs]()
-- [Wiki](https://github.com/Tanagra-Enterprises/.github/wiki)
-- [Roadmap](https://github.com/Tanagra-Enterprises/.github/projects?query=is%3Aopen)
-- [Support](https://github.com/Tanagra-Enterprises/.github/issues)
+- [Wiki](https://github.com/ChatBotler-ai/.github/wiki)
+- [Roadmap](https://github.com/ChatBotler-ai/.github/projects?query=is%3Aopen)
+- [Support](https://github.com/ChatBotler-ai/.github/issues)
 - [Contact]()
